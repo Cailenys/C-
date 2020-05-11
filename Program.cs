@@ -7,9 +7,9 @@ namespace Parser_C_
         static void Main(string[] args)
         {
            
-             Option = "1";
+             option = "1";
 
-            switch(Option){
+            switch(option){
                 case "1": 
                     Console.WriteLine("Please enter filename");
                     string fileName = Console.ReadLine();
@@ -17,12 +17,12 @@ namespace Parser_C_
                    
                 case "2":
                     Console.WriteLine("Please enter filename");
-                    Console.WriteLine("filName: " +"" + fileName);
+                    Console.WriteLine("filName: " + "" + fileName);
                     
               
                 case "3":
 
-                int Option = 0; 
+                int option = 0; 
 
                 while (option < 3){ 
                     option++;
