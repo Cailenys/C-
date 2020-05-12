@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>Parser_C_</RootNamespace>
+    <RootNamespace>C__OOP_Assignment</RootNamespace>
   </PropertyGroup>
 
 </Project>

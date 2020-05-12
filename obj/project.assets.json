@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\Documents\\Parser_C#\\Parser_C#.csproj",
-      "projectName": "Parser_C#",
-      "projectPath": "C:\\Users\\USER\\Documents\\Parser_C#\\Parser_C#.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\Documents\\C#_OOP_Assignment\\C#_OOP_Assignment.csproj",
+      "projectName": "C#_OOP_Assignment",
+      "projectPath": "C:\\Users\\USER\\Documents\\C#_OOP_Assignment\\C#_OOP_Assignment.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\Documents\\Parser_C#\\obj\\",
+      "outputPath": "C:\\Users\\USER\\Documents\\C#_OOP_Assignment\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
